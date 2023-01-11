@@ -1,0 +1,11 @@
+header {
+  height: 13vh;
+  background-image: url("../imgs/separated banner.png");
+  background-position: center;
+}
+  
+@media screen and (max-width: 900px) {
+  header {
+    background-size: 150%;
+  }
+}
